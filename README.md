@@ -3,7 +3,9 @@
 A web app that shows all the starwars characters, which can be filtered by movies they star in. 
 
 Build in Svelte
+
 Data fetched from swapi.dev
+
 ## Get started
 
 Install and run the project
